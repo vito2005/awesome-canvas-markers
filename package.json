@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Different canvas-markers for Leaflet, drawing in canvas mode, based on the Font-Awesome icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vito2005/awesome-canvas-markers.git"
+  },
+  "keywords": [
+    "canvas-markers",
+    "canvas-icons",
+    "canvas-points",
+    "awesome-canvas-markers"
+  ],
+  "author": "alexbuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vito2005/awesome-canvas-markers/issues"
+  },
+  "homepage": "https://github.com/vito2005/awesome-canvas-markers#readme"
+}
